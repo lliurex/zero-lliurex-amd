@@ -1,0 +1,8 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"amdgpu-install","key_store":"zero-lliurex-amd","custom_icon":"amd.svg","custom_name":"AMD Driver Graphics: Install oficial drivers"}], 
+	"script": {"name":"/usr/share/zero-lliurex-amd/amd_script", "remove":true},
+	"custom_icon_path":"/usr/share/icons/lliurex/apps/48/",
+	"zomando":"zero-lliurex-amd"
+	
+	}

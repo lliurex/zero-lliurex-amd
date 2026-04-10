@@ -1,0 +1,24 @@
+#!/bin/bash
+
+
+ACTION="$1"
+
+case $ACTION in
+
+	preInstall)
+		
+		echo "Checking architecture and installing drivers..."
+	;;
+
+	postInstall)
+
+		echo 'Adding the drivers to the kernel and compiling them, please wait.....'
+		amdgpu-install -y
+	;;
+	remove)
+		echo "Deleting package from your system..."
+		apt-get remove -y amdgpu-install
+
+				
+	;;	
+esac

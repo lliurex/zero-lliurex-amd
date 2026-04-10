@@ -1,0 +1,4 @@
+#!/bin/bash
+
+epi-gtk /usr/share/zero-lliurex-amd/amd.epi
+exit 0

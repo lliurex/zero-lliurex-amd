@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>zero-lliurex-amd</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>zero-lliurex-amd</name>
+<name xml:lang="es">Instalador de Drivers AMD Graphics</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Instal·lador de Drivers AMD Graphics</name>
+<name xml:lang="ca_ES@valencia">Instal·lador de Drivers AMD Graphics</name>
+<name xml:lang="ca_ES">Instal·lador de Drivers AMD Graphics</name>
+<summary>Drivers AMD Graphics Installer</summary>
+<summary xml:lang="es">Instalador de Drivers AMD Graphics</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Instal·lador de Drivers AMD Graphics</summary>
+<summary xml:lang="ca_ES@valencia">Instal·lador de Drivers AMD Graphics</summary>
+<summary xml:lang="ca_ES">Instal·lador de Drivers AMD Graphics</summary>
+<categories>
+<category>Lliurex</category>
+<category>Zomando</category>
+<category>Utility</category>
+</categories>
+<icon type="cached">amd</icon>
+
+<keywords>
+<keyword>zero</keyword>
+<keyword>lliurex</keyword>
+<keyword>amd</keyword>
+<keyword>zero-lliurex-amd</keyword>
+<keyword>Zomando</keyword>
+<keyword>flash</keyword>
+<keyword>actionscript</keyword>
+<keyword>javascript</keyword>
+<keyword>html</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Instalador</keyword>
+<keyword>AMD</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES.UTF-8@valencia">
+<keyword>Instal·lador</keyword>
+<keyword>AMD</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES@valencia">
+<keyword>Instal·lador</keyword>
+<keyword>AMD</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>Zomando</keyword>
+
+</keywords>
+</component>
